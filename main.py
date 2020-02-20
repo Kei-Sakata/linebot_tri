@@ -68,7 +68,7 @@ def hands_to_int(userhand):
 
 def selct_bothand():
 
-	random.randint(0,2)
+    return random.randint(0,2)
 
 
 
