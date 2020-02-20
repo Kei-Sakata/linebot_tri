@@ -52,7 +52,7 @@ def hands_to_int(userhand):
 
     elif userhand == "チョキ":
 
-        retrun 1
+        return 1
 
 
 
